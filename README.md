@@ -1,7 +1,12 @@
 # Thanks for visiting my Git! 👋
 <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
- 
 
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prince891028&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince891028&theme=tokyonight&hide_border=true" alt="Prince's github streak" width="48%" >
 
 <!--
 **rockstar-0000/rockstar-0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
