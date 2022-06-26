@@ -3,19 +3,13 @@
 
 ---
 
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rockstar-0000&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rockstar-0000's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rockstar-0000&theme=tokyonight&hide_border=true" alt="rockstar-0000's github streak" width="48%" >
-
-<!--
 **rockstar-0000/rockstar-0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Welcome
 
 ![rockstar-0000's github stats](https://github-readme-stats.vercel.app/api?username=rockstar-0000&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![rockstar-0000's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar-0000&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
-## About me
+<!-- ## About me
 Here are some ideas to get you started:
 - 🌱 I’m a Full stack developer with a Bachelor's degree in Computer Science. </br>
 - 👨‍💻  I am passionate about Blockchain Development include Solidity and Front-End & I enjoy learning new things. </br>
@@ -26,5 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
